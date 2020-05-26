@@ -13,7 +13,7 @@
 
 
         <classes>
-            <class name="com.datadriventest.DataDrivenClass"/>
+            <class name="com.datadriventest.StaticDataDrivenClass"/>
         </classes>
 
 

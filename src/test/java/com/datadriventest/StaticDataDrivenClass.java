@@ -15,7 +15,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.*;
 import java.util.concurrent.TimeUnit;
 
-public class DataDrivenClass
+public class StaticDataDrivenClass
 
 {
     WebDriver driver;
